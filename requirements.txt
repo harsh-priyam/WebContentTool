@@ -1,0 +1,9 @@
+langchain-community==0.3.17
+langchain-openai==0.3.6
+faiss-cpu
+langchain-core==0.3.36
+python-dotenv
+bs4==0.0.2
+langchain==0.3.19
+Flask
+streamlit
